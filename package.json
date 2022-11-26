@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codewithkael/PCM-Player.git"
+    "url": "git+https://github.com/codewithkael/pcmplayer.git"
   },
   "keywords": [
     "react-native",
@@ -22,5 +22,5 @@
   "bugs": {
     "url": ""
   },
-  "homepage": "https://https://github.com/codewithkael/PCM-Player.git#readme"
+  "homepage": "https://https://github.com/codewithkael/PCM-pcmplayer.git#readme"
 }
