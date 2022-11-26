@@ -1,0 +1,26 @@
+{
+  "name": "pcmplayer",
+  "version": "0.0.2",
+  "description": "PCM PLayer for nove",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithkael/PCM-Player.git"
+  },
+  "keywords": [
+    "react-native",
+    "android"
+  ],
+  "author": "Masoud sarabadani",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://https://github.com/codewithkael/PCM-Player.git#readme"
+}
