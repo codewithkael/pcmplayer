@@ -11,6 +11,7 @@ import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
 
+
 //nove model to be injected inside js
 public class NoveModel extends ReactContextBaseJavaModule {
     Context context;
